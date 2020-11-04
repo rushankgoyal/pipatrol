@@ -1,3 +1,5 @@
+## The next few lines of code click a picture and store it
+
 from picamera import PiCamera  # importing the picamera module
 
 camera = PiCamera()            # declaring a PiCamera object
