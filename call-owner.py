@@ -1,5 +1,7 @@
 ## Code for calling the owner of this PiPatrol. This part integrates with an IFTTT Maker Event applet.
 
+import webbrowser, sys, os
+
 # define trigger URL
 url = <INSERT_URL_GIVEN_BY_IFTTT_HERE>
 
